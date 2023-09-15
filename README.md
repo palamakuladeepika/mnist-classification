@@ -34,7 +34,7 @@ There are a number of handwritten digits in the MNIST dataset. The assignment is
 ## PROGRAM
 ```
 Developed by: Palamakula Deepika
-Registration no:212221240035
+Registration No.:212221240035
 ```
 
 ## Importing the required packages
